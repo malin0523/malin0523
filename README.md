@@ -1,9 +1,9 @@
 ### Hi There! 👋
 ---
 - 🌱 Currently learning<br>
-![오라클 Badge](http://img.shields.io/badge/-OracleSQL-red?style=flat-square&logo=oracle&&logoColor=white") &nbsp
-![오라클 Badge](http://img.shields.io/badge/-OracleSQL-red?style=flat-square&logo=oracle&&logoColor=white") &nbsp
-![오라클 Badge](http://img.shields.io/badge/-OracleSQL-red?style=flat-square&logo=oracle&&logoColor=white") &nbsp
+![오라클 Badge](http://img.shields.io/badge/-OracleSQL-red?style=flat-square&logo=oracle&&logoColor=white") &nbsp;
+![오라클 Badge](http://img.shields.io/badge/-OracleSQL-red?style=flat-square&logo=oracle&&logoColor=white") &nbsp;
+![오라클 Badge](http://img.shields.io/badge/-OracleSQL-red?style=flat-square&logo=oracle&&logoColor=white") &nbsp;
 
 - 🤔 Interested in 
 - 💬 Ask me about 
