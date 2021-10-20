@@ -2,7 +2,7 @@
 ---
 - 🌱 Currently learning<br>
 ![오라클 Badge](http://img.shields.io/badge/-OracleSQL-red?style=flat-square&logo=oracle&&logoColor=white") &nbsp;
-![오라클 Badge](http://img.shields.io/badge/-OracleSQL-red?style=flat-square&logo=oracle&&logoColor=white") &nbsp;
+![알고리즘 Badge](Algorithm-red?style=flat-square&logo=Wolfram Mathematica&&logoColor=white") &nbsp;
 ![오라클 Badge](http://img.shields.io/badge/-OracleSQL-red?style=flat-square&logo=oracle&&logoColor=white") &nbsp;
 
 - 🤔 Interested in 
