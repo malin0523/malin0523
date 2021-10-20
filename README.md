@@ -1,9 +1,9 @@
 ### Hi There! 👋
 ---
-🌱 Currently learning 
-🤔 Looking for help with 
-💬 Ask me about 
-⚡ Favorite
+- 🌱 Currently learning <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+- 🤔 Interested in 
+- 💬 Ask me about 
+- ⚡ Favorite
 ### Tech
 ---
 
