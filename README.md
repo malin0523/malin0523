@@ -10,8 +10,8 @@
 ![js Badge](http://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&&logoColor=white) &nbsp;
 ![js Badge](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&&logoColor=white) &nbsp;
  
-- 💬 Ask me about 
 - ⚡ Favorite
+![hope Badge](https://www.facebook.com/photo/?fbid=246554603839268&set=a.246554587172603-E34F26?style=flat-square) &nbsp;
 ### Tech
 ---
 
