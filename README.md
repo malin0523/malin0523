@@ -1,8 +1,8 @@
 ### Hi There! 👋
 ---
 <table border="1">
-	<th>테이블</th>
-	<th>만들기</th>
+	<th>활동</th>
+	<th>기간</th>
 	<tr><!-- 첫번째 줄 시작 -->
 	    <td>첫번째 칸</td>
 	    <td>두번째 칸</td>
