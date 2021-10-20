@@ -12,7 +12,8 @@
 ![writing Badge]
  
 - ⚡ Favorite<br>
-<a href = "https://www.facebook.com/kpuhope"><img src ="https://scontent-ssn1-1.xx.fbcdn.net/v/t1.6435-9/162633706_246554617172600_2788003787668733053_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ndOTglgB7H0AX-A664j&_nc_oc=AQmIYbsaxzcazI4ODhGhm0lLVdtMaocFRG5OvG0YgPW9mNwUhKJ7UY79McCORKF9DAY&_nc_ht=scontent-ssn1-1.xx&oh=405b4b437acadf7cb3e19e7925845b19&oe=6194F6EF" width="50" height ="50">
+<a href = "https://www.facebook.com/kpuhope" target="_blank"><img src ="https://scontent-ssn1-1.xx.fbcdn.net/v/t1.6435-9/162633706_246554617172600_2788003787668733053_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ndOTglgB7H0AX-A664j&_nc_oc=AQmIYbsaxzcazI4ODhGhm0lLVdtMaocFRG5OvG0YgPW9mNwUhKJ7UY79McCORKF9DAY&_nc_ht=scontent-ssn1-1.xx&oh=405b4b437acadf7cb3e19e7925845b19&oe=6194F6EF" width="50" height ="50"> &nbsp; 
+![js Badge](https://freeicons.io/music-icons/-Rock-black?style=flat-square&logo=rock-icon&&logoColor=white) &nbsp;
 ### Tech
 ---
 
