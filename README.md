@@ -6,8 +6,8 @@
 ![네트워크 Badge](http://img.shields.io/badge/-Network-blue?style=flat-square&logo=internetexplorer&&logoColor=white") &nbsp;
 
 - 🤔 Interested in <br>
-![html Badge](http://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&&logoColor=white") &nbsp;
-![html Badge](http://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&&logoColor=white") &nbsp;
+![html Badge](http://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&&logoColor=white") &nbsp;
+![html Badge](http://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&&logoColor=white") &nbsp;
  
 - 💬 Ask me about 
 - ⚡ Favorite
