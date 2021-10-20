@@ -1,7 +1,7 @@
 ### Hi There! 👋
 ---
 - 🌱 Currently learning
-![오라클 Badge](http://img.shields.io/badge/-Oracle SQL-red?style=flat-square&logo=oracle&&logoColor=white")
+![오라클 Badge](http://img.shields.io/badge/-OracleSQL-red?style=flat-square&logo=oracle&&logoColor=white")
 
 - 🤔 Interested in 
 - 💬 Ask me about 
@@ -11,7 +11,7 @@
 
 ### SNS
 ---
-[![블로그 Badge](http://img.shields.io/badge/-Study Blog-black?style=flat-square&logo=github&link=https://beomja.tistory.com/)](https://beomja.tistory.com/) [![Gmail Badge](https://img.shields.io/badge/Mail-green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:malin0523@naver.com)](mailto:malin0523@naver.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=@https://www.instagram.com/beomja98/)](https://www.instagram.com/beomja98/) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=@https://www.instagram.com/beomja98/)](https://www.instagram.com/beomja98/)
+[![블로그 Badge](http://img.shields.io/badge/-StudyBlog-black?style=flat-square&logo=github&link=https://beomja.tistory.com/)](https://beomja.tistory.com/) [![Gmail Badge](https://img.shields.io/badge/Mail-green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:malin0523@naver.com)](mailto:malin0523@naver.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=@https://www.instagram.com/beomja98/)](https://www.instagram.com/beomja98/) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=@https://www.instagram.com/beomja98/)](https://www.instagram.com/beomja98/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
