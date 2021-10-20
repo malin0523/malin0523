@@ -1,6 +1,6 @@
 ### Hi There! 👋
 ---
-- 🌱 Currently learning
+- 🌱 Currently learning<br>
 ![오라클 Badge](http://img.shields.io/badge/-OracleSQL-red?style=flat-square&logo=oracle&&logoColor=white")
 
 - 🤔 Interested in 
