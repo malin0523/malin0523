@@ -1,6 +1,7 @@
 ### Hi There! 👋
 ---
-- 🌱 Currently learning <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+- 🌱 Currently learning
+- <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 - 🤔 Interested in 
 - 💬 Ask me about 
 - ⚡ Favorite
