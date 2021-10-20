@@ -1,6 +1,6 @@
 ### Hi There! 👋
 ---
-<table border="1" width ="800">
+<table border="1" width ="1400">
 	<th>활동</th>
 	<th>기간</th>
 	<th>내용</th>
