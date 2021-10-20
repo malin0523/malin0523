@@ -1,8 +1,7 @@
 ### Hi There! 👋
 ---
 - 🌱 Currently learning
-<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-(http://img.shields.io/badge/-블로그-black?style=flat-square&logo=oracle&&logoColor=white")
+[![오라클 Badge](http://img.shields.io/badge/-블로그-black?style=flat-square&logo=oracle&&logoColor=white")]
 
 - 🤔 Interested in 
 - 💬 Ask me about 
