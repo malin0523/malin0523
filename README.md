@@ -4,11 +4,13 @@
 ![오라클 Badge](http://img.shields.io/badge/-OracleSQL-red?style=flat-square&logo=oracle&&logoColor=white") &nbsp;
 ![알고리즘 Badge](http://img.shields.io/badge/-Algorithm-green?style=flat-square&logo=wolframmathematica&&logoColor=white") &nbsp;
 ![네트워크 Badge](http://img.shields.io/badge/-Network-blue?style=flat-square&logo=internetexplorer&&logoColor=white") &nbsp;
+![vue Badge](http://img.shields.io/badge/-vue-3DDC84?style=flat-square&logo=vue&&logoColor=white) &nbsp;
 
 - 🤔 Interested in <br>
 ![html Badge](http://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&&logoColor=white) &nbsp;
 ![js Badge](http://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&&logoColor=white) &nbsp;
 ![android Badge](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&&logoColor=white) &nbsp;
+
  
 - ⚡ Favorite<br>
 <a href = "https://www.facebook.com/kpuhope" target="_blank"><img src ="https://scontent-ssn1-1.xx.fbcdn.net/v/t1.6435-9/162633706_246554617172600_2788003787668733053_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ndOTglgB7H0AX-A664j&_nc_oc=AQmIYbsaxzcazI4ODhGhm0lLVdtMaocFRG5OvG0YgPW9mNwUhKJ7UY79McCORKF9DAY&_nc_ht=scontent-ssn1-1.xx&oh=405b4b437acadf7cb3e19e7925845b19&oe=6194F6EF" width="50" height ="50"> &nbsp; 
