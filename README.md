@@ -1,5 +1,7 @@
 ### Hi There! 👋
 ---
+![image](https://user-images.githubusercontent.com/81558153/138541794-d1866666-85fa-4a00-a15a-dafc1c9993c6.png)
+
 - 🌱 Currently learning<br>
 ![오라클 Badge](http://img.shields.io/badge/-OracleSQL-red?style=flat-square&logo=oracle&&logoColor=white") &nbsp;
 ![알고리즘 Badge](http://img.shields.io/badge/-Algorithm-green?style=flat-square&logo=wolframmathematica&&logoColor=white") &nbsp;
